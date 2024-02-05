@@ -1,0 +1,5 @@
+.licensed-div {
+  width: 50%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

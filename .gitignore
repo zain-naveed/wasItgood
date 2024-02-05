@@ -1,0 +1,20 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/package-lock.json
+/.DS_Store
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+/.eslintcache
+/.DS_Store
+.idea
+.env.local
+.env.development.local
+.DS_Store

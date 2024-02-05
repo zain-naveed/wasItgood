@@ -1,0 +1,21 @@
+.lelel.tittlwee {
+  text-align: center;
+  padding: 22px;
+}
+
+.detailss {
+  padding: 10px 44px;
+}
+
+.toptitle {
+    text-align: right;
+}
+.ffeedback .MuiPaper-root.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiPaper-elevation24.MuiPaper-rounded {
+  min-width: 600px;
+}
+@media screen and (max-width: 767px) {
+
+.ffeedback .MuiPaper-root.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiPaper-elevation24.MuiPaper-rounded {
+  min-width: 350px !important;
+}
+}

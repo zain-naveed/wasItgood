@@ -1,0 +1,65 @@
+.mainContent {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  margin-bottom: 30px;
+  align-self: center;
+  text-align: center;
+}
+button.announce-btn {
+  margin: 0px 12px;
+}
+.announce-textInput {
+  width: 80%;
+  margin: 20px 0 3px 0;
+  padding: 10px;
+  height: 30px;
+  border-color: gray;
+  resize: none;
+}
+.mainContent.logoutpop h3 {
+  margin-bottom: 45px;
+}
+
+.announce-btn {
+  background: #0f3650 !important;
+  border-radius: 5px;
+  width: 165px;
+  height: 40px;
+  border: 0px;
+  color: #fff;
+  margin-top: 10px !important;
+  cursor: pointer;
+}
+
+.announce-btn:hover {
+  background: #1b77b4 !important;
+}
+
+.announce-btn-spin {
+  background: #0f3650 !important;
+  border-radius: 5px;
+  width: 165px;
+  height: 40px;
+  border: 0px;
+  color: #fff;
+  margin-top: 10px !important;
+  cursor: default;
+}
+
+.ann-cancel {
+  align-self: flex-end;
+}
+
+.announcement-popup-error {
+  color: red;
+  margin-left: 5px;
+  font-size: 12px;
+  margin-top: -3px;
+  width: 80%;
+  text-align: start;
+  height: 15px;
+}

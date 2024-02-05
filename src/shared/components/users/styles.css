@@ -1,0 +1,53 @@
+.add-user-popup-error {
+  color: red;
+  margin-left: 5px;
+  font-size: 12px;
+  margin-top: -3px;
+}
+.colr,
+.btn-success {
+  border: none !important;
+  box-shadow: none !important;
+  /* display: none; */
+  background-color: #3f3a61 !important;
+}
+.descrip {
+  width: 100% !important;
+  text-align: justify !important;
+}
+.elipsing {
+  overflow-wrap: break-word;
+}
+.divLicenseSection {
+  background-color: #f8f9fb;
+  border-radius: 5px;
+  height: 100px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.divLicenseSection2 {
+  background-color: #f8f9fb;
+  border-radius: 5px;
+  min-height: 100px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.d-license {
+  margin: 3% 0% 0% 3%;
+}
+.license-h6 {
+  margin-right: 50px;
+  font-weight: 700;
+}
+.detailp {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 140%;
+  color: #757575;
+}
+.licenseH1 {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+}

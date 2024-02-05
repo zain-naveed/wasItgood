@@ -1,0 +1,170 @@
+.login_bac {
+  background: url(../images/backlog1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Made with love by Mutiullah Samim*/
+
+.card-body p {
+  color: red;
+}
+/* .signup{
+    height: 100% !important;
+  } */
+.container {
+  height: 100%;
+  align-content: center;
+  padding: 100px;
+}
+.setcontain {
+  height: 100vh !important;
+}
+
+.adduuser {
+  height: 80vh !important;
+  padding: 28px;
+}
+
+.card {
+  margin-top: auto;
+  margin-bottom: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  /* background-color: #2C4F39  !important; */
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.social_icon span {
+  font-size: 60px;
+  margin-left: 10px;
+  color: #ffc312;
+}
+
+.social_icon span:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.card-header h3 {
+  color: white;
+}
+
+.social_icon {
+  position: absolute;
+  right: 20px;
+  top: -45px;
+}
+
+.input-group-prepend span {
+  width: 50px;
+  background-color: #264bae;
+  color: #e8f0fe;
+  border: 0 !important;
+}
+
+input:focus {
+  outline: 0 0 0 0 !important;
+  box-shadow: 0 0 0 0 !important;
+}
+
+.remember {
+  color: white;
+}
+
+.remember input {
+  width: 20px;
+  height: 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+.login_btn {
+  color: #ffffff;
+  background-color: #273e2f;
+  width: 100% !important;
+  margin-top: 15px;
+}
+
+.login_btn:hover {
+  color: rgb(247, 247, 247);
+  background-color: #1f6136;
+}
+
+.links {
+  color: white;
+}
+
+.links a {
+  margin-left: 4px;
+}
+.login_logo {
+  position: relative;
+}
+.login_logo img {
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.flexxx {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  width: 30% !important;
+  max-width: 100%;
+}
+.MuiModal-root.MuiDialog-root.neewwww.css-zw3mfo-MuiModal-root-MuiDialog-root .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  width: 75% !important;
+  max-width: 100%;
+}
+.card.signup {
+  width: 80%;
+}
+
+.input-group.form-group {
+  width: 47%;
+  margin: 5px;
+}
+.listingupdate.product label {
+  color: #fff !important;
+}
+.input-group.form-group.login {
+  width: 100% !important;
+}
+@media (max-width: 600px) {
+  .setcontain {
+    padding: 16px !important;
+  }
+  .card {
+    width: 100%;
+  }
+}
+
+
+
+.login_btn {
+  color: #ffffff;
+  background-color: #2892d7;
+  width: 100% !important;
+  margin-top: 15px;
+}
+
+.login_btn:hover {
+  color: rgb(247, 247, 247);
+  background-color: #2892d7 ;
+}
+.input-group-prepend span {
+  width: 50px;
+  background-color: #2892d7 !important;
+  color: #e8f0fe;
+  border: 0 !important;
+  justify-content: center !important;
+}
